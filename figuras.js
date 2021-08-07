@@ -78,7 +78,7 @@ console.groupEnd();
 
 
 // Aquí interactuamos con HTML
-
+//Cuadrado
 function calcularPerímetroCuadrado() {
     const input = document.getElementById("InputCuadrado");
     const value = input.value;
